@@ -1,1 +1,1 @@
-# ECE6397_HW_1
+# CHEE6397 Homework
